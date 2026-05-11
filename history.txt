@@ -1,0 +1,5 @@
+[admin2] ADDED Farmer ID: 0004 | Hectares: 5 | Sacks: 2
+[admin2] ADDED Farmer ID: 0001 | Hectares: 4 | Sacks: 3
+[admin1] ADDED Farmer ID: 0004 (Bee Goo)
+[admin2] ADDED Farmer ID: 0004 | 4.0ha | 1 sacks
+[admin1] UPDATED Qty for Farmer ID 0004 to 4
