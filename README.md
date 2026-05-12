@@ -10,6 +10,7 @@ Project Theme: Project ACRP (Agri-Resource Consistency & Record Preservation)
 ==========================================================================
 
 1. PROJECT OVERVIEW
+
 Project ACRP is a specialized resource planning tool designed for 
 agricultural cooperatives in Davao Oriental. Its primary goal is to 
 ensure resource consistency by enforcing a strict distribution limit 
