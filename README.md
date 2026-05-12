@@ -1,7 +1,11 @@
 AGRI-COOPERATIVE RESOURCE PLANNING (ACRP) SYSTEM
+
 Developer: Group 9 - HUMORLESS
+
 University: Davao Oriental State University (DOrSU)
+
 Course/Year: BSIT - 1st Year
+
 Project Theme: Project ACRP (Agri-Resource Consistency & Record Preservation)
 ==========================================================================
 
@@ -39,6 +43,6 @@ STAFF ACCOUNTS (Role ID: 1):
 - Username: staff1 (up to staff10)
 - Password: staff123
 
-Note: For security, the 'users.txt' file stores passwords in an 
+//For security, the 'users.txt' file stores passwords in an 
 encrypted format (e.g., 'admin123' is saved as 'dgplq456').
 ==========================================================================
