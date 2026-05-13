@@ -35,6 +35,7 @@ and maintains digital records for auditing and emergency support.
 4. TEST CREDENTIALS
 
 ADMIN ACCOUNTS: admin1 / HUmorLESS@1234
+
 STAFF ACCOUNTS: staff1 / HUMORless@4312
 
 Note: Passwords in users.txt are stored as 'KXpruOHVV?4567' (Encrypted).
